@@ -20514,7 +20514,7 @@ cc_prebuilt_binary {
                 "libhidlbase",
                 "libhidltransport",
                 "android.frameworks.sensorservice@1.0",
-                "libtinyxml2-v34",
+                "libtinyxml2",
                 "libc++",
                 "libc",
                 "libm",
