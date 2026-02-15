@@ -14467,6 +14467,7 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libwfdservice_shim",
+                "libaudioclient_shim",
                 "libutils",
                 "libcutils",
                 "libaudioclient",
